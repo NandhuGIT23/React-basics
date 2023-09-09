@@ -5,7 +5,7 @@ import Kums from "./comp/kums";
 function App() {
   return (
     <div className="App">
-      <Kums msg="React was developed by"></Kums>
+      <Kums></Kums>
     </div>
   );
 }

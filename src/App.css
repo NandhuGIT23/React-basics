@@ -40,3 +40,30 @@
 h1 {
   text-align: center;
 }
+
+button{
+  height: 30px;
+  width: auto;
+  color: green;
+  background-color: black;
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container2{
+  display: flex;
+  justify-content: center;
+  align-items:center;
+  margin-top: 10px;
+}
+
+.container3{
+  display: flex;
+  justify-content: center;
+  align-items:center;
+  margin-top: 10px;
+}
